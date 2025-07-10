@@ -34,7 +34,7 @@ This analysis builds upon platform-sourced behavioral metrics from Amplitude, in
 
 ## 📚 Report
 
-- Link to report can be found [here]([url](https://docs.google.com/presentation/d/1Sbhys5O0SUExWZO2iokIri_KX7Wi_I0gig7uRK5Ufk0/edit?usp=sharing))
+- Link to report can be found [here](https://docs.google.com/presentation/d/1Sbhys5O0SUExWZO2iokIri_KX7Wi_I0gig7uRK5Ufk0/edit?usp=sharing)
 
 ---
 
