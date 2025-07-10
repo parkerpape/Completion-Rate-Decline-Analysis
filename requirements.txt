@@ -1,0 +1,8 @@
+pandas
+numpy
+nltk
+requests
+pydub
+textstat
+transformers
+deepmultilingualpunctuation
